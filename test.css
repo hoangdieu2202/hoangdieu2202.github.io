@@ -1,0 +1,22 @@
+p{
+    height:1000px;
+    color:red;
+    background-color: aqua;
+    font-size: 18px;
+    font-family: Gill Sans;
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color:black;
+}
+a:hover {
+    color: red;
+}
+a:active {
+    color: chartreuse;
+}
+p::first-line{
+ color: red;
+}
